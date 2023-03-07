@@ -5,4 +5,4 @@
 У меня 2 детей  
 Живу в Турции  
 
-![Мое фото](C:\Users\Ruslan\Downloads\Me.jpeg)
+![Мое фото](C:\Users\Ruslan\Pictures\Me.png)
